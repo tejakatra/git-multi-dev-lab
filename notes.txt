@@ -1,2 +1,3 @@
-Version v1
-Develpoper B update
+Version 1
+Developer A update
+Developer B update
